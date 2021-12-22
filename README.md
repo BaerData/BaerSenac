@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Baer
 - 👀 Tenho um enorme interesse no desenvolvimento de programas e jogos.
-- 🌱 Atualmente estou estudando front-end e trabalhando com linguagem VBA
+- 🌱 Atualmente estou estudando Html, Css e C# , mas quero me aprofundar futuramente no Back-end.
 - 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
 
 <div align="center">
