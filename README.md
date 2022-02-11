@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Baer
-- 👀 Tenho um enorme interesse no desenvolvimento de programas e jogos.
-- 🌱 Atualmente estou estudando Html, Css e C# , mas quero me aprofundar futuramente no Back-end.
+- 👀 Quero me tornar um Dev e fazer a difereça.
+- 🌱 Atualmente estou focado no Front-end, mas quero aprender Javascript.
 - 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
 
 <div align="center">
