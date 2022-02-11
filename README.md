@@ -7,7 +7,7 @@
 <br><br>
 
 <h2>📌 Experiência na Área de TI</h2>
-<h3>📊 Analista de BI Jr</h3> <br>
+<h3>📊 Estagio de TI - Análise de dados</h3> <br>
 <p> Embraer ✈ 
 <li> Criaçao de Dashboards para vizualizaçao dos dados e insights <br>
 <li>Tratamentos dos dados utilizando Power Query <br>
