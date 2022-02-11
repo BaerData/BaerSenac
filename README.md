@@ -1,7 +1,19 @@
-- 👋 Olá, eu sou o Baer
-- 👀 Quero me tornar um Dev e fazer a difereça.
-- 🌱 Atualmente estou focado no Front-end, mas quero aprender Javascript.
-- 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
+<h2>🧙‍♂️ Sobre mim</h2>
+
+<li>👋 Olá, eu sou o Baer
+<li>👀 Quero me tornar um Dev e fazer a difereça.
+<li>🌱 Atualmente estou focado no Front-end, mas quero aprender Javascript.
+<li> 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
+<br><br>
+
+<h2>📌 Experiência na Área de TI</h2>
+<h3>📊 Analista de BI Jr</h3> <br>
+<p> Embraer ✈ 
+<li> Criaçao de Dashboards para vizualizaçao dos dados e insights <br>
+<li>Tratamentos dos dados utilizando Power Query <br>
+<li>Yellow Belt - Metodologia Lean Six Sigma </p><br>
+<br><br>
+
 
 <div align="center">
   <a href="https://github.com/BaerSenac">
