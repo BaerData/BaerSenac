@@ -1,8 +1,8 @@
 <h2>🧙‍♂️ Sobre mim</h2>
 
 <li>👋 Olá, eu sou o Baer
-<li>👀 Quero me tornar um Dev e fazer a difereça.
-<li>🌱 Atualmente estou focado no Front-end, mas quero aprender Javascript.
+<li>👀 Meu objetivo é trabalhar com desenvolvimento web
+<li>🌱 Estou me aprofundando no Javascript e CSS e logo mais React.
 <li> 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
 <br><br>
 
