@@ -3,7 +3,8 @@
 <li>👋 Olá, eu sou o Baer
 <li>👀 Meu objetivo é trabalhar com desenvolvimento web
 <li>🌱 Estou me aprofundando no Javascript e CSS e logo mais React.
-<li> 📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
+<li>📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
+<li>🖼 Portfólio: https://baersenac.github.io/newPortfolio/
 <br><br>
 
 <h2>📌 Experiência na Área de TI</h2>
