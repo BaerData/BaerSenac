@@ -1,21 +1,20 @@
-<h2>🧙‍♂️ Sobre mim</h2>
 
-<li>👋 Olá, eu sou o Baer
-<li>👀 Meu objetivo é trabalhar com desenvolvimento web
-<li>🌱 Estou me aprofundando no Javascript e CSS e logo mais React.
-<li>📫 Emails e Redes sociais para contato - || jonathanbaeremails@gmail.com || Linkedin: https://www.linkedin.com/in/jonathanbaer/
-<li>🖼 Portfólio: https://baersenac.github.io/newPortfolio/
+# Ola, bem vindo!
+## Sou o Baer, e esse é meu ReadMe 😁👍
+ <h4>Tenho 22 anos e estou estudando Engenharia de Software.
+ <h4>Busco oportunidades de estágio para dar início no mundo do front-end.<br>
+ <h4>Possuo experiência com Business Intelligence (BI) por 2 anos
+ <h4>Confira meu portfólio: https://baersenac.github.io/newPortfolio/
 <br><br>
 
-<h2>📌 Experiência na Área de TI</h2>
-<h3>📊 Estagio de TI - Análise de dados</h3> <br>
-<p> Embraer ✈ 
-<li> Criaçao de Dashboards para vizualizaçao dos dados e insights <br>
-<li>Tratamentos dos dados utilizando Power Query <br>
-<li>Yellow Belt - Metodologia Lean Six Sigma </p><br>
+# Tools
+- 🚀Frontend: `Javascript`,`HTML5`, `CSS3`, `Sass`
+- 📊Business Intelligence: `Power BI`, `Excel`, `VBA`
+- 📐Prototyping tools: `Figma`
+- 🔧Version code control: `Git` & `Github`
+- 🛠Code Editor: `Vscode`
+  
 <br><br>
-
-
 <div align="center">
   <a href="https://github.com/BaerSenac">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaerSenac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
