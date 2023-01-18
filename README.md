@@ -5,7 +5,7 @@
  Tenho 22 anos e estou cursando Engenharia de Software.<br>
  Busco oportunidades de estágio em desenvolvimento web.<br>
  Possuo experiência com Business Intelligence (BI) por 2 anos<br>
- Confira meu portfólio: https://baersenac.github.io/newPortfolio/
+ Confira meu portfólio: https://baersenac.github.io/Portfolio/
   <br><br></div>
   
  <div align="center">
