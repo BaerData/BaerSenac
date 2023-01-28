@@ -15,7 +15,7 @@ Portfolio: https://baersenac.github.io/newPortfolio/
 - 🛠Code Editor: `Vscode`
   
 <br><br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/BaerSenac">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaerSenac&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaerSenac&layout=compact&langs_count=7&theme=midnight-purple"/>
