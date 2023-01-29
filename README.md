@@ -1,6 +1,4 @@
 
-# Olá, eu sou o Baer
-### Sou Desenvolvedor Web e de Power BI
 Portfolio: https://baersenac.github.io/newPortfolio/
 
   
