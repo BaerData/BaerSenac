@@ -1,5 +1,5 @@
 
-Portfolio: [https://baersenac.github.io/newPortfolio/](https://baerportfolio.vercel.app/)
+Portfolio: ([https://baerportfolio.vercel.app/](https://baerportfolio.vercel.app/))
 
   
   <a href = "mailto:jonathanbaeremails@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
