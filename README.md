@@ -11,17 +11,7 @@ Portfolio: ([https://baerportfolio.vercel.app/](https://baerportfolio.vercel.app
 - 📐Prototyping tools: `Figma`
 - 🔧Version code control: `Git` & `Github`
 - 🛠Code Editor: `Vscode`
-  
-<br><br>
-<div align="left">
-  <a href="https://github.com/BaerSenac">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BaerSenac&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaerSenac&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-  
 
-  
-  ##
   
 
  
