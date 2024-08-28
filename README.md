@@ -1,14 +1,18 @@
+Hi, I'm Baer!
 
-I'm a data analyst and also have experience in web development.
+I've been working with data analysis and business intelligence for 3 years. During this time, I've set up a small company and delivered 80+ Excel and Power BI dashboards to international clients and companies. My main qualities are the reliability of the data delivered and the visual beauty of each dashboard.
 
 
-# Tools
-- 🚀Frontend: `Javascript`,`HTML5`, `CSS3`, `Sass`
-- 📊Business Intelligence & Data analyst: `Power BI`, `Excel`, `VBA`
-- 📐Prototyping tools: `Figma`
-- 🔧Version code control: `Git` & `Github`
-- 🛠Code Editor: `Vscode`
+My knowledge and experience: 
 
+📊 Dashboard analysis and development 
+Microsoft Power BI | Excel | Sharepoint | DAX | SQL Server | R | Google Sheets | Data Studio | Tag Manager | ChatGPT | Qlik
+
+🖼️ UI/UX design for dashboard and website layout
+Figma | GIMP | Adobe Color 
+
+🖥️ Web Development Tools
+HTML5 | CCS3 | SASS | Javascript | Git & GitHub | Bootstrap 5
   
 
  
